@@ -1,0 +1,17 @@
+# Verified with Python 3.12 on macOS.
+contourpy==1.4.0
+cycler==0.12.1
+et_xmlfile==2.0.0
+fonttools==4.68.0
+kiwisolver==1.5.1
+matplotlib==3.11.2
+numpy==2.3.5
+openpyxl==3.1.5
+packaging==26.3
+pandas==2.2.3
+pillow==12.3.0
+pyparsing==3.3.3
+python-dateutil==4.0.0
+pytz==2026.6
+scipy==1.18.1
+tzdata==2026.6

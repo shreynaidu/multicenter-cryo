@@ -1,0 +1,20 @@
+check,expected,note
+Source rows,107,All rows retained; pt_id ignored
+Analytic patients,107,Investigator adjudicated each row as unique
+Deaths,46,All have death durations
+Originally coded local progressions,32,Before correction
+Status-zero records with recurrence duration,5,Recoded in analysis copy
+Corrected local progressions,37,No recurrence occurred after death
+Administrative follow-up derivations,0,All 107 follow-up durations supplied in updated Sheet2
+Tumor-size group counts,29|30|22|26,Established cutpoints
+Technical successes,103,
+Pneumothoraces,45,
+Hemothorax/hemorrhage,17,
+Pleural effusions,17,
+Chest tubes,29,
+Repeat ablations,7,
+Unknown pathology,2,
+30-day deaths,2,All-cause
+90-day deaths,5,All-cause
+Recurrence after death,0,Tie rule: progression wins same-day tie
+Exact duplicate rows excluding pt_id,0,IDs not used for deduplication

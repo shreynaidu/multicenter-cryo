@@ -1,0 +1,33 @@
+# Patient-level inputs and reference data stay out of version control.
+data/raw/*.xlsx
+data/reference/
+data/release/
+analysis/figure_reference/retained_stage_curves.csv
+DATA_BUNDLE_MANIFEST.json
+
+# Generated results, frozen baselines and historical records.
+outputs/
+archive/
+tests/baseline/
+tests/public_baseline/
+exports/
+
+# Local environments and caches.
+renv/library/
+renv/cache/
+renv/state/
+renv/tools/
+.R-library/
+.venv-figures/
+.cache/
+.ruff_cache/
+__pycache__/
+*.pyc
+
+# Workstation files.
+.DS_Store
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+.Rproj.user/

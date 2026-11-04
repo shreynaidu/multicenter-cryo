@@ -1,0 +1,26 @@
+{
+  "source_script_sha256": "26fc357e6d821dd7ff74bfbdd88bdd77e1da230a3df62ea450e257e447a1a3b7",
+  "source": "Supplied generate_publication_figures.py; stage coordinates and risk counts originally reconstructed from an image, not fitted from stage records.",
+  "plotted_columns_sha256": "c401326bd44d8742e0fa2f344ad5ae51bcc0310633f11c44a8b664201d761568",
+  "followup_overrides_sha256": "a900f5d084a93af699ce3c8d7ac483f2cb59c634712b42acc93f05830ac853f6",
+  "expected_risk_counts": {
+    "cr": [
+      107,
+      51,
+      24,
+      13
+    ],
+    "os": [
+      107,
+      63,
+      31,
+      18
+    ]
+  },
+  "reported_gray_p": 0.157,
+  "days_per_month": 30.4375,
+  "files": {
+    "retained_stage_curves.csv": "ee743b2cb7f829dc84e6cdaee83d7466d8b68efcfafea9e2699fd6cf59c8a155",
+    "retained_stage_risk_counts.csv": "8076a64755d5a24b9ca05d937c35971b10ed632fa09de24e9e62c51b84fd64de"
+  }
+}

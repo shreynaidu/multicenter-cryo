@@ -1,0 +1,6 @@
+# Checksums are recorded for these files, so line endings must never be rewritten.
+*.csv -text
+*.json -text
+*.lock -text
+*.xlsx binary
+*.rds binary

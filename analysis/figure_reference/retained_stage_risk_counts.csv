@@ -1,0 +1,13 @@
+stage,time_months,number_at_risk
+Stage I-II,0,48
+Stage I-II,12,27
+Stage I-II,24,14
+Stage I-II,36,7
+Stage III-IV,0,34
+Stage III-IV,12,12
+Stage III-IV,24,6
+Stage III-IV,36,3
+Unknown stage,0,25
+Unknown stage,12,12
+Unknown stage,24,4
+Unknown stage,36,3
